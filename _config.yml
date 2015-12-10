@@ -1,3 +1,4 @@
+permalink: /news/:year/:month/:day/:title/
 # Site settings
 title: StarryPy
 description: > # this means to ignore newlines until "baseurl:"
