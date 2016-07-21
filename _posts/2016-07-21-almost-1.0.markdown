@@ -9,7 +9,7 @@ Howdy all!
 
 Tomorrow (July 22nd, 2016) at 10am PST, Starbound 1.0 is due to release (read about it [here](http://playstarbound.com/starbound-release-announcement/)... though lets be honest, if you're here, you already know about this.)
 
-<img src=http://i.imgur.com/hkoYIDx.gif>
+<img src="http://i.imgur.com/hkoYIDx.gif">
 
 Over the past few months, I've been busying myself with trying to bring StarryPy3K up to speed with the nightly and unstable builds, in prepration for the 1.0 release. This has been largely successful, with the core system working extrememly well. While not all the features that were previously available in StarryPy are available in the current 3K version, quite a lot of them are. Planet protections, Roles and Colorized names, chat timestamps, Message of the Day greeters and IRC bot are all aready in there. I will continue working over the next few weeks to bring over other features like backups, new player item packs, Discord bot, chat emotes to name a few. If there is something you're really intested in seeing, open an issue on GitHub and let me know.
 
