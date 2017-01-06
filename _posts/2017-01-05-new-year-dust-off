@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New Year Dust-off"
+author: kharidiron
+date:   2017-01-05 19:47:13
+categories: site update
+---
+After takings some time away from the code for personal life reasons, I've figured it is time to get back into the swing of things. Starting with the low-hanging fruit of our web presence! Hence, a new post, a new page, and some minor updates.
+
+I've gone through and tagged our previous "releases" for SP3K (really, it is more like "updates" as they are commits that bring us back to a functional status). Going forward, I'm hoping to be more professional-like in using feature branches and consistent tagging... we'll see how that goes.
+
+Many thanks to @medeor413, @GermaniumSystem, and @dopeghoti for all their recent contributions and patches. This has brought back many of the features from the old StarryPy, as well as provided many new and useful features.
+
+Here's hoping 2017 provides for some more awesomness (and better stability).
+
+See you space cowboy...
